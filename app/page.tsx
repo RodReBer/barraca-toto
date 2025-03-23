@@ -262,7 +262,7 @@ export default function Home() {
       </section>
 
       {/* Sobre Nosotros - Parallax */}
-      <ParallaxSection bgImage="/nosotros.jpg" speed={-10}>
+      <ParallaxSection bgImage="/placeholder.svg?height=1080&width=1920&text=Sobre+Nosotros" speed={-10}>
         <div className="container px-4 md:px-6">
           <div className="grid gap-8 lg:grid-cols-2 items-center">
             <ScrollAnimation direction="left">
